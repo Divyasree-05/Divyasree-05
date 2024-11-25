@@ -1,5 +1,9 @@
 # 💫 About Me:
-DIVYASREE S<br>A fervent creator of engaging user interfaces.<br>ABOUT MYSELF<br>I am DIVYASREE S , a pre final year student currently pursuing my bachelor's degree in computer science and engineering at Velammal Engineering College . I thrive on tackling challenges and delivering innovative solutions.I am currently working on front end development projects.<br>CONTACT <br>Email:sdivyasree12b126@gmail.com<br>Linkedin:www.linkedin.com/in/divyasree06<br>
+A fervent creator of engaging user interfaces.
+# DIVYASREE S
+I am a pre final year student currently pursuing my bachelor's degree in computer science and engineering at Velammal Engineering College . I thrive on tackling challenges and delivering innovative solutions.I am currently working on front end development projects.<br><br>CONTACT<br>
+
+Email:sdivyasree12b126@gmail.com<br>Linkedin:www.linkedin.com/in/divyasree06<br>
 
 
 ## 🌐 Socials:
