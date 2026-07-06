@@ -1,7 +1,7 @@
 # 💫 About Me:
 A fervent creator of engaging user interfaces ✨.
 # DIVYASREE S
-I am a passionate creator of dynamic and user-friendly web interfaces, currently pursuing my bachelor's degree 👩‍🎓 in Computer Science and Engineering at Velammal Engineering College as a pre-final year student. With a strong focus on front-end development, I specialize in crafting visually appealing and functional designs that enhance user experiences 👩‍💻.
+I am a passionate creator of dynamic and user-friendly web interfaces, completed my bachelor's degree 👩‍🎓 in Computer Science Engineering at Velammal Engineering College. With a strong focus on front-end development, I specialize in crafting visually appealing and functional designs that enhance user experiences 👩‍💻.
 
 I thrive on solving complex challenges and delivering innovative solutions, constantly seeking to refine my skills and stay updated with the latest web technologies. My projects reflect a commitment to clean code , responsive design, and seamless functionality. With an eye for detail and a drive for excellence, I aim to make a meaningful impact in the world of web development.<br>
 # CONTACT
